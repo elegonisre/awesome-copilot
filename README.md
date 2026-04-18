@@ -27,6 +27,7 @@ Custom `.github/copilot-instructions.md` files that tailor GitHub Copilot behavi
 - **Go** — Idiomatic Go patterns and error handling
 - **Node.js / Express** — REST API conventions, middleware patterns, and async handling
 - **Java / Spring Boot** — Spring conventions, dependency injection, and REST patterns *(personal addition)*
+- **Terraform** — HCL conventions, module structure, and provider patterns *(personal addition)*
 
 ## Agents
 
