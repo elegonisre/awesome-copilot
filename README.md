@@ -25,6 +25,7 @@ Custom `.github/copilot-instructions.md` files that tailor GitHub Copilot behavi
 - **TypeScript / React** — Component patterns, hooks, and type safety
 - **Rust** — Memory safety idioms and cargo workspace conventions
 - **Go** — Idiomatic Go patterns and error handling
+- **Node.js / Express** — REST API conventions, middleware patterns, and async handling
 
 ## Agents
 
