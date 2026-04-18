@@ -26,6 +26,7 @@ Custom `.github/copilot-instructions.md` files that tailor GitHub Copilot behavi
 - **Rust** — Memory safety idioms and cargo workspace conventions
 - **Go** — Idiomatic Go patterns and error handling
 - **Node.js / Express** — REST API conventions, middleware patterns, and async handling
+- **Java / Spring Boot** — Spring conventions, dependency injection, and REST patterns *(personal addition)*
 
 ## Agents
 
