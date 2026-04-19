@@ -30,6 +30,7 @@ Custom `.github/copilot-instructions.md` files that tailor GitHub Copilot behavi
 - **Terraform** — HCL conventions, module structure, and provider patterns *(personal addition)*
 - **Ruby / Rails** — Rails conventions, ActiveRecord patterns, and RSpec testing *(personal addition — currently exploring)*
 - **Kotlin / Ktor** — Ktor server conventions, coroutines, and serialization patterns *(personal addition — want to try this next)*
+- **Elixir / Phoenix** — Phoenix LiveView patterns, OTP conventions, and Ecto queries *(personal addition — on the backlog)*
 
 ## Agents
 
@@ -58,6 +59,7 @@ Templates and examples for building agentic pipelines with GitHub Copilot.
 - [GitHub Copilot for Business](https://github.com/features/copilot)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [GitHub Next](https://githubnext.com/)
+- [Elixir School](https://elixirschool.com/) — useful while exploring the Elixir/Phoenix instructions
 
 ## Contributing
 
