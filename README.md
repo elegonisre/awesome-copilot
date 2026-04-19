@@ -29,6 +29,7 @@ Custom `.github/copilot-instructions.md` files that tailor GitHub Copilot behavi
 - **Java / Spring Boot** — Spring conventions, dependency injection, and REST patterns *(personal addition)*
 - **Terraform** — HCL conventions, module structure, and provider patterns *(personal addition)*
 - **Ruby / Rails** — Rails conventions, ActiveRecord patterns, and RSpec testing *(personal addition — currently exploring)*
+- **Kotlin / Ktor** — Ktor server conventions, coroutines, and serialization patterns *(personal addition — want to try this next)*
 
 ## Agents
 
