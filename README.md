@@ -60,6 +60,7 @@ Templates and examples for building agentic pipelines with GitHub Copilot.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [GitHub Next](https://githubnext.com/)
 - [Elixir School](https://elixirschool.com/) — useful while exploring the Elixir/Phoenix instructions
+- [Go by Example](https://gobyexample.com/) — handy reference while working with the Go instructions
 
 ## Contributing
 
