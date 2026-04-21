@@ -63,8 +63,5 @@ Templates and examples for building agentic pipelines with GitHub Copilot.
 - [Go by Example](https://gobyexample.com/) — handy reference while working with the Go instructions
 - [Effective Go](https://go.dev/doc/effective_go) — deeper dive into idiomatic Go; pairing this with the Go instructions file
 - [Go Tour](https://go.dev/tour/) — good starting point before jumping into Effective Go
-- [100 Go Mistakes](https://100go.co/) — great companion once the basics click; highlights subtle pitfalls in real Go code
-
-## Contributing
-
-Contributions welco
+- [100 Go Mistakes](https://100go.co/) — great companion to the Go instructions; highlights common pitfalls I keep running into
+- [Go Proverbs](https://go-proverbs.github.io/) — short, memorable design principles; helpful context when writing the Go copilot instructions
