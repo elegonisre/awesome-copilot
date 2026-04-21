@@ -62,14 +62,10 @@ Templates and examples for building agentic pipelines with GitHub Copilot.
 - [Elixir School](https://elixirschool.com/) — useful while exploring the Elixir/Phoenix instructions
 - [Go by Example](https://gobyexample.com/) — handy reference while working with the Go instructions
 - [Effective Go](https://go.dev/doc/effective_go) — deeper dive into idiomatic Go; pairing this with the Go instructions file
+- [Go Tour](https://go.dev/tour/) — good starting point before jumping into Effective Go
 
 ## Contributing
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-This project follows the [all-contributors](https://allcontributors.org) specification.
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START -->
-<
+This project follo
